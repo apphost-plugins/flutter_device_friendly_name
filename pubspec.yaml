@@ -1,7 +1,7 @@
 name: flutter_device_friendly_name
 description: Retrieve a friendly name for the current device.
 version: 0.1.0
-author: Willmack LLC
+author: Willmack LLC <contact@willmack.io>
 homepage: https://github.com/apphost-plugins/flutter_device_friendly_name
 
 environment:
